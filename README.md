@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **oliversimon.west@gmail.com**
 
-- ⚡ Fun fact **The dinosaur with the longest name was Micropachycephalosaurus meaning "tiny thick-headed lizard"... reminds me of my brother.**
+- ⚡ Fun fact **The dinosaur with the longest name was Micropachycephalosaurus meaning "tiny thick-headed lizard"... reminds me of... well... someone.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
