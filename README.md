@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Caddy's Hack - A golf shot tracker!](https://caddys-hack.vercel.app/)
 
-- 🌱 I’m currently learning **Redux and C++**
+- 🌱 I’m currently learning **PHP and C++**
 
 - 👨‍💻 All of my projects are available at [https://westycodes-portfolio.vercel.app/](https://westycodes-portfolio.vercel.app/)
 
